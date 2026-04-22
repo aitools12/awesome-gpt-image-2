@@ -24,8 +24,8 @@
 | 指标 | 数值 |
 | --- | --- |
 | Prompt 模板数 | 24 |
-| 带来源案例数 | 15 |
-| 本地参考图 | 15 |
+| 带来源案例数 | 30 |
+| 本地参考图 | 30 |
 | 语言 | 英文、简体中文 |
 
 主要文件：
@@ -236,6 +236,203 @@ Generate a high-design character relationship poster for [franchise or cast], wi
 - 仓库：`ZeroLu/awesome-gpt-image`
 - 原始页面：https://opennana.com/awesome-prompt-gallery/key-character-relationship-map
 - 署名链接：https://x.com/yihui_indie/status/2045179926270361890
+
+## 新增 15 个带来源案例
+
+### 16. Goldendoodle 百科卡
+
+<img src="./assets/reference/goldendoodle-encyclopedia-card.jpg" width="520" alt="Goldendoodle 百科卡" />
+
+```text
+Generate a high-quality vertical science popularization encyclopedia image based on [Theme].
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/pfanis/status/2046413660147314714
+- 参考锚点：`Case 32: Science Encyclopedia Vertical Poster`
+
+### 17. AI Builder 涂鸦速写
+
+<img src="./assets/reference/ai-builder-doodle-sketch.jpg" width="520" alt="AI Builder 涂鸦速写" />
+
+```text
+Create a doodle sketch style illustration of a powerful AI builder.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/opc_8838/status/2046162334440448339
+- 参考锚点：`Case 36: AI Builder Doodle Sketch`
+
+### 18. 架空动画电影海报
+
+<img src="./assets/reference/fictional-anime-movie-poster.jpg" width="520" alt="架空动画电影海报" />
+
+```text
+Create a fictional anime movie poster with premium theatrical composition.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/seiiiiiiiiiiru/status/2046509734954741780
+- 参考锚点：`Case 40: Fictional Anime Movie Poster`
+
+### 19. 产品广告重设计
+
+<img src="./assets/reference/product-ad-redesign.jpg" width="520" alt="产品广告重设计" />
+
+```text
+Redesign this product advertisement from a professional designer perspective, aligned with current trends and target audience expectations.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/genel_ai/status/2046498264774791514
+- 参考锚点：`Case 41: Product Ad Redesign`
+
+### 20. 透明头鱼解剖百科图
+
+<img src="./assets/reference/barreleye-fish-anatomy-encyclopedia.jpg" width="520" alt="透明头鱼解剖百科图" />
+
+```text
+Create a color encyclopedia page explaining the body structure of the barreleye fish.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/itnavi2022/status/2046500429786402973
+- 参考锚点：`Case 44: Barreleye Fish Anatomy Encyclopedia`
+
+### 21. 夏季冷乌冬广告
+
+<img src="./assets/reference/refreshing-summer-udon-ad.jpg" width="520" alt="夏季冷乌冬广告" />
+
+```text
+Create a seasonal ad that emphasizes freshness, moisture, and the refreshing sensation of cold udon and summer ingredients.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/genel_ai/status/2046501692246470871
+- 参考锚点：`Case 46: Refreshing Summer Udon Ad`
+
+### 22. Silicon Valley 2026 城市海报
+
+<img src="./assets/reference/silicon-valley-2026-promo-poster.jpg" width="520" alt="Silicon Valley 2026 城市海报" />
+
+```text
+Create a refined 2026 Silicon Valley city promotional poster with an elegant future-facing atmosphere and flowing double-exposure composition.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/carsonyungos/status/2046523198116889064
+- 参考锚点：`Case 48: Silicon Valley 2026 Promo Poster`
+
+### 23. 日本超市特卖传单
+
+<img src="./assets/reference/japanese-supermarket-sale-flyer.jpg" width="520" alt="日本超市特卖传单" />
+
+```text
+Generate a lively Japanese supermarket promotional flyer with strong sale typography, colorful product photos, and dense retail pricing layout.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/weel_corp/status/2046514558064586782
+- 参考锚点：`Case 49: Japanese Supermarket Sale Flyer`
+
+### 24. 普拉提工作室广告海报
+
+<img src="./assets/reference/pilates-studio-ad-poster.jpg" width="520" alt="普拉提工作室广告海报" />
+
+```text
+Create an advertising image for a pilates studio with compelling signup copy and a realistic image of a woman actively doing pilates.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/ck_igarashi/status/2046528889124728993
+- 参考锚点：`Case 51: Pilates Studio Ad Poster`
+
+### 25. 超高密度信息设计图
+
+<img src="./assets/reference/ultra-dense-information-design.jpg" width="520" alt="超高密度信息设计图" />
+
+```text
+Generate something super complex and information-dense.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/EchoraContinuum/status/2046517163826246133
+- 参考锚点：`Case 52: Ultra-Dense Information Design`
+
+### 26. 主题科普百科卡
+
+<img src="./assets/reference/theme-science-encyclopedia-card.jpg" width="520" alt="主题科普百科卡" />
+
+```text
+Generate a high-quality vertical encyclopedia card for [theme] with modular sections, zoomed details, rating blocks, and collectible infographic structure.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/alanlovelq/status/2046378199681257920
+- 参考锚点：`Case 54: Theme Science Encyclopedia Card`
+
+### 27. 辣椒炒肉流程图
+
+<img src="./assets/reference/chili-pork-cooking-flowchart.jpg" width="520" alt="辣椒炒肉流程图" />
+
+```text
+Make a detailed cooking flowchart for chili pork in a realistic style, suitable for Xiaohongshu-style infographic sharing.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/Kurt_Rousey466/status/2046267707881029934
+- 参考锚点：`Case 55: Chili Pork Cooking Flowchart`
+
+### 28. 日系抽卡界面
+
+<img src="./assets/reference/japanese-gacha-game-screen.jpg" width="520" alt="日系抽卡界面" />
+
+```text
+Generate a Japanese mobile social game gacha screen.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/the_wheel_2024/status/2046519658166317160
+- 参考锚点：`Case 35: Japanese Gacha Game Screen`
+
+### 29. 马斯克抖音直播截图
+
+<img src="./assets/reference/elon-musk-douyin-livestream.jpg" width="520" alt="马斯克抖音直播截图" />
+
+```text
+Create a photoreal vertical Douyin livestream screenshot where Elon Musk is speaking to camera, holding a handwritten sign, with full Chinese livestream UI and gift effects.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/Shinning1010/status/2046501587762188535
+- 参考锚点：`Case 36: Elon Musk Douyin Livestream Screenshot`
+
+### 30. 赛博霓虹 UI 设计系统
+
+<img src="./assets/reference/cyberpunk-neon-ui-design-system.jpg" width="520" alt="赛博霓虹 UI 设计系统" />
+
+```text
+Generate a futuristic cyberpunk UI design system with neon lighting, glass reflections, strong contrast, dashboards, mobile interfaces, cards, buttons, and controls.
+```
+
+来源：
+- 仓库：`EvoLinkAI/awesome-gpt-image-2-prompts`
+- 原始帖子：https://x.com/AZLnfvp/status/2046468976092533180
+- 参考锚点：`Case 38: Cyberpunk Neon UI Design System`
 
 ## 数据文件
 

@@ -24,8 +24,8 @@ This repository now keeps only cases with traceable origins. The earlier unsourc
 | Metric | Value |
 | --- | --- |
 | Prompt templates | 24 |
-| Source-attributed cases | 15 |
-| Local reference images | 15 |
+| Source-attributed cases | 30 |
+| Local reference images | 30 |
 | Languages | English, Simplified Chinese |
 
 Main files:
@@ -236,6 +236,203 @@ Source:
 - Repo: `ZeroLu/awesome-gpt-image`
 - Original page: https://opennana.com/awesome-prompt-gallery/key-character-relationship-map
 - Attribution link: https://x.com/yihui_indie/status/2045179926270361890
+
+## Additional Source-Attributed Cases
+
+### 16. Goldendoodle Encyclopedia Card
+
+<img src="./assets/reference/goldendoodle-encyclopedia-card.jpg" width="520" alt="Goldendoodle encyclopedia card" />
+
+```text
+Generate a high-quality vertical science popularization encyclopedia image based on [Theme].
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/pfanis/status/2046413660147314714
+- Reference README anchor: `Case 32: Science Encyclopedia Vertical Poster`
+
+### 17. AI Builder Doodle Sketch
+
+<img src="./assets/reference/ai-builder-doodle-sketch.jpg" width="520" alt="AI builder doodle sketch" />
+
+```text
+Create a doodle sketch style illustration of a powerful AI builder.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/opc_8838/status/2046162334440448339
+- Reference README anchor: `Case 36: AI Builder Doodle Sketch`
+
+### 18. Fictional Anime Movie Poster
+
+<img src="./assets/reference/fictional-anime-movie-poster.jpg" width="520" alt="Fictional anime movie poster" />
+
+```text
+Create a fictional anime movie poster with premium theatrical composition.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/seiiiiiiiiiiru/status/2046509734954741780
+- Reference README anchor: `Case 40: Fictional Anime Movie Poster`
+
+### 19. Product Ad Redesign
+
+<img src="./assets/reference/product-ad-redesign.jpg" width="520" alt="Product ad redesign" />
+
+```text
+Redesign this product advertisement from a professional designer perspective, aligned with current trends and target audience expectations.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/genel_ai/status/2046498264774791514
+- Reference README anchor: `Case 41: Product Ad Redesign`
+
+### 20. Barreleye Fish Anatomy Encyclopedia
+
+<img src="./assets/reference/barreleye-fish-anatomy-encyclopedia.jpg" width="520" alt="Barreleye fish anatomy encyclopedia" />
+
+```text
+Create a color encyclopedia page explaining the body structure of the barreleye fish.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/itnavi2022/status/2046500429786402973
+- Reference README anchor: `Case 44: Barreleye Fish Anatomy Encyclopedia`
+
+### 21. Refreshing Summer Udon Ad
+
+<img src="./assets/reference/refreshing-summer-udon-ad.jpg" width="520" alt="Refreshing summer udon ad" />
+
+```text
+Create a seasonal ad that emphasizes freshness, moisture, and the refreshing sensation of cold udon and summer ingredients.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/genel_ai/status/2046501692246470871
+- Reference README anchor: `Case 46: Refreshing Summer Udon Ad`
+
+### 22. Silicon Valley 2026 Promo Poster
+
+<img src="./assets/reference/silicon-valley-2026-promo-poster.jpg" width="520" alt="Silicon Valley 2026 promo poster" />
+
+```text
+Create a refined 2026 Silicon Valley city promotional poster with an elegant future-facing atmosphere and flowing double-exposure composition.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/carsonyungos/status/2046523198116889064
+- Reference README anchor: `Case 48: Silicon Valley 2026 Promo Poster`
+
+### 23. Japanese Supermarket Sale Flyer
+
+<img src="./assets/reference/japanese-supermarket-sale-flyer.jpg" width="520" alt="Japanese supermarket sale flyer" />
+
+```text
+Generate a lively Japanese supermarket promotional flyer with strong sale typography, colorful product photos, and dense retail pricing layout.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/weel_corp/status/2046514558064586782
+- Reference README anchor: `Case 49: Japanese Supermarket Sale Flyer`
+
+### 24. Pilates Studio Ad Poster
+
+<img src="./assets/reference/pilates-studio-ad-poster.jpg" width="520" alt="Pilates studio ad poster" />
+
+```text
+Create an advertising image for a pilates studio with compelling signup copy and a realistic image of a woman actively doing pilates.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/ck_igarashi/status/2046528889124728993
+- Reference README anchor: `Case 51: Pilates Studio Ad Poster`
+
+### 25. Ultra-Dense Information Design
+
+<img src="./assets/reference/ultra-dense-information-design.jpg" width="520" alt="Ultra-dense information design" />
+
+```text
+Generate something super complex and information-dense.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/EchoraContinuum/status/2046517163826246133
+- Reference README anchor: `Case 52: Ultra-Dense Information Design`
+
+### 26. Theme Science Encyclopedia Card
+
+<img src="./assets/reference/theme-science-encyclopedia-card.jpg" width="520" alt="Theme science encyclopedia card" />
+
+```text
+Generate a high-quality vertical encyclopedia card for [theme] with modular sections, zoomed details, rating blocks, and collectible infographic structure.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/alanlovelq/status/2046378199681257920
+- Reference README anchor: `Case 54: Theme Science Encyclopedia Card`
+
+### 27. Chili Pork Cooking Flowchart
+
+<img src="./assets/reference/chili-pork-cooking-flowchart.jpg" width="520" alt="Chili pork cooking flowchart" />
+
+```text
+Make a detailed cooking flowchart for chili pork in a realistic style, suitable for Xiaohongshu-style infographic sharing.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/Kurt_Rousey466/status/2046267707881029934
+- Reference README anchor: `Case 55: Chili Pork Cooking Flowchart`
+
+### 28. Japanese Gacha Game Screen
+
+<img src="./assets/reference/japanese-gacha-game-screen.jpg" width="520" alt="Japanese gacha game screen" />
+
+```text
+Generate a Japanese mobile social game gacha screen.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/the_wheel_2024/status/2046519658166317160
+- Reference README anchor: `Case 35: Japanese Gacha Game Screen`
+
+### 29. Elon Musk Douyin Livestream
+
+<img src="./assets/reference/elon-musk-douyin-livestream.jpg" width="520" alt="Elon Musk Douyin livestream" />
+
+```text
+Create a photoreal vertical Douyin livestream screenshot where Elon Musk is speaking to camera, holding a handwritten sign, with full Chinese livestream UI and gift effects.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/Shinning1010/status/2046501587762188535
+- Reference README anchor: `Case 36: Elon Musk Douyin Livestream Screenshot`
+
+### 30. Cyberpunk Neon UI Design System
+
+<img src="./assets/reference/cyberpunk-neon-ui-design-system.jpg" width="520" alt="Cyberpunk neon UI design system" />
+
+```text
+Generate a futuristic cyberpunk UI design system with neon lighting, glass reflections, strong contrast, dashboards, mobile interfaces, cards, buttons, and controls.
+```
+
+Source:
+- Repo: `EvoLinkAI/awesome-gpt-image-2-prompts`
+- Original post: https://x.com/AZLnfvp/status/2046468976092533180
+- Reference README anchor: `Case 38: Cyberpunk Neon UI Design System`
 
 ## Data Files
 

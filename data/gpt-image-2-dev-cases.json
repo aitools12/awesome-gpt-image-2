@@ -148,5 +148,155 @@
     "sourceRepo": "ZeroLu/awesome-gpt-image",
     "sourceUrl": "https://opennana.com/awesome-prompt-gallery/key-character-relationship-map",
     "attributionUrl": "https://x.com/yihui_indie/status/2045179926270361890"
+  },
+  {
+    "id": "goldendoodle-encyclopedia-card",
+    "category": "documents-and-infographics",
+    "title": "Goldendoodle Encyclopedia Card",
+    "previewUrl": "./assets/reference/goldendoodle-encyclopedia-card.jpg",
+    "prompt": "Generate a high-quality vertical science popularization encyclopedia image based on [Theme].",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/pfanis/status/2046413660147314714",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "ai-builder-doodle-sketch",
+    "category": "character-and-structured-layout",
+    "title": "AI Builder Doodle Sketch",
+    "previewUrl": "./assets/reference/ai-builder-doodle-sketch.jpg",
+    "prompt": "Create a doodle sketch style illustration of a powerful AI builder.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/opc_8838/status/2046162334440448339",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "fictional-anime-movie-poster",
+    "category": "character-and-structured-layout",
+    "title": "Fictional Anime Movie Poster",
+    "previewUrl": "./assets/reference/fictional-anime-movie-poster.jpg",
+    "prompt": "Create a fictional anime movie poster with premium theatrical composition.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/seiiiiiiiiiiru/status/2046509734954741780",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "product-ad-redesign",
+    "category": "product-ui-and-social",
+    "title": "Product Ad Redesign",
+    "previewUrl": "./assets/reference/product-ad-redesign.jpg",
+    "prompt": "Redesign this product advertisement from a professional designer perspective, aligned with current trends and target audience expectations.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/genel_ai/status/2046498264774791514",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "barreleye-fish-anatomy-encyclopedia",
+    "category": "documents-and-infographics",
+    "title": "Barreleye Fish Anatomy Encyclopedia",
+    "previewUrl": "./assets/reference/barreleye-fish-anatomy-encyclopedia.jpg",
+    "prompt": "Create a color encyclopedia page explaining the body structure of the barreleye fish.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/itnavi2022/status/2046500429786402973",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "refreshing-summer-udon-ad",
+    "category": "product-ui-and-social",
+    "title": "Refreshing Summer Udon Ad",
+    "previewUrl": "./assets/reference/refreshing-summer-udon-ad.jpg",
+    "prompt": "Create a seasonal ad that emphasizes freshness, moisture, and the refreshing sensation of cold udon and summer ingredients.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/genel_ai/status/2046501692246470871",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "silicon-valley-2026-promo-poster",
+    "category": "product-ui-and-social",
+    "title": "Silicon Valley 2026 Promo Poster",
+    "previewUrl": "./assets/reference/silicon-valley-2026-promo-poster.jpg",
+    "prompt": "Create a refined 2026 Silicon Valley city promotional poster with an elegant future-facing atmosphere and flowing double-exposure composition.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/carsonyungos/status/2046523198116889064",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "japanese-supermarket-sale-flyer",
+    "category": "product-ui-and-social",
+    "title": "Japanese Supermarket Sale Flyer",
+    "previewUrl": "./assets/reference/japanese-supermarket-sale-flyer.jpg",
+    "prompt": "Generate a lively Japanese supermarket promotional flyer with strong sale typography, colorful product photos, and dense retail pricing layout.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/weel_corp/status/2046514558064586782",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "pilates-studio-ad-poster",
+    "category": "product-ui-and-social",
+    "title": "Pilates Studio Ad Poster",
+    "previewUrl": "./assets/reference/pilates-studio-ad-poster.jpg",
+    "prompt": "Create an advertising image for a pilates studio with compelling signup copy and a realistic image of a woman actively doing pilates.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/ck_igarashi/status/2046528889124728993",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "ultra-dense-information-design",
+    "category": "documents-and-infographics",
+    "title": "Ultra-Dense Information Design",
+    "previewUrl": "./assets/reference/ultra-dense-information-design.jpg",
+    "prompt": "Generate something super complex and information-dense.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/EchoraContinuum/status/2046517163826246133",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "theme-science-encyclopedia-card",
+    "category": "documents-and-infographics",
+    "title": "Theme Science Encyclopedia Card",
+    "previewUrl": "./assets/reference/theme-science-encyclopedia-card.jpg",
+    "prompt": "Generate a high-quality vertical encyclopedia card for [theme] with modular sections, zoomed details, rating blocks, and collectible infographic structure.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/alanlovelq/status/2046378199681257920",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "chili-pork-cooking-flowchart",
+    "category": "documents-and-infographics",
+    "title": "Chili Pork Cooking Flowchart",
+    "previewUrl": "./assets/reference/chili-pork-cooking-flowchart.jpg",
+    "prompt": "Make a detailed cooking flowchart for chili pork in a realistic style, suitable for Xiaohongshu-style infographic sharing.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/Kurt_Rousey466/status/2046267707881029934",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "japanese-gacha-game-screen",
+    "category": "product-ui-and-social",
+    "title": "Japanese Gacha Game Screen",
+    "previewUrl": "./assets/reference/japanese-gacha-game-screen.jpg",
+    "prompt": "Generate a Japanese mobile social game gacha screen.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/the_wheel_2024/status/2046519658166317160",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "elon-musk-douyin-livestream",
+    "category": "product-ui-and-social",
+    "title": "Elon Musk Douyin Livestream",
+    "previewUrl": "./assets/reference/elon-musk-douyin-livestream.jpg",
+    "prompt": "Create a photoreal vertical Douyin livestream screenshot where Elon Musk is speaking to camera, holding a handwritten sign, with full Chinese livestream UI and gift effects.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/Shinning1010/status/2046501587762188535",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
+  },
+  {
+    "id": "cyberpunk-neon-ui-design-system",
+    "category": "product-ui-and-social",
+    "title": "Cyberpunk Neon UI Design System",
+    "previewUrl": "./assets/reference/cyberpunk-neon-ui-design-system.jpg",
+    "prompt": "Generate a futuristic cyberpunk UI design system with neon lighting, glass reflections, strong contrast, dashboards, mobile interfaces, cards, buttons, and controls.",
+    "sourceRepo": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "sourceUrl": "https://x.com/AZLnfvp/status/2046468976092533180",
+    "attributionUrl": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts"
   }
 ]
