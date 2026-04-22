@@ -1,0 +1,146 @@
+[
+  {
+    "id": "portrait-creator-headshot-refresh",
+    "category": "portrait-and-creator",
+    "title": "Creator Headshot Refresh",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/showcases/1.webp",
+    "prompt": "Create a polished creator headshot with soft studio lighting, realistic skin texture, clean neutral background, premium but natural expression",
+    "note": "Useful for profile images, creator cards, and about-page portraits."
+  },
+  {
+    "id": "portrait-editorial-vertical",
+    "category": "portrait-and-creator",
+    "title": "Editorial Vertical Portrait",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/showcases/2.webp",
+    "prompt": "Editorial portrait in a luxury magazine style, realistic face details, subtle cinematic grading, elegant wardrobe, 3:4 vertical crop",
+    "note": "Fits creator branding and premium editorial visuals."
+  },
+  {
+    "id": "portrait-consistent-avatar-set",
+    "category": "portrait-and-creator",
+    "title": "Consistent Avatar Set",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/showcases/3.webp",
+    "prompt": "Generate a consistent avatar series of the same person across three branding moods, preserve identity, hairstyle, and camera distance",
+    "note": "Useful for series consistency and multi-platform profile sets."
+  },
+  {
+    "id": "product-white-background-listing",
+    "category": "product-and-ecommerce",
+    "title": "White Background Listing Image",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/useshowcases/3.webp",
+    "prompt": "Marketplace-ready product image, white background, centered object, clean contact shadow, no clutter, realistic catalog photography",
+    "note": "Good for marketplaces and catalog pages."
+  },
+  {
+    "id": "product-luxury-hero-shot",
+    "category": "product-and-ecommerce",
+    "title": "Luxury Product Hero Shot",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/showcases/4.webp",
+    "prompt": "Premium beauty product on a warm stone pedestal, soft daylight, realistic reflections, shallow depth of field, high-end commercial photography",
+    "note": "Designed for hero banners and premium product pages."
+  },
+  {
+    "id": "product-lifestyle-variation",
+    "category": "product-and-ecommerce",
+    "title": "Lifestyle Product Variation",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/showcases/5.webp",
+    "prompt": "Create a product lifestyle scene with a soft premium environment, tasteful props, realistic materials, ad-ready composition, 4:5 crop",
+    "note": "Useful for ads and social media placements."
+  },
+  {
+    "id": "landscape-golden-hour-terrain-study",
+    "category": "landscape-and-concept",
+    "title": "Golden Hour Terrain Study",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/useshowcases/2.webp",
+    "prompt": "Golden hour terrain study with layered mountain depth, natural haze, cinematic sunlight, realistic atmosphere, clean composition",
+    "note": "Good for scenic concepts and nature-themed campaign visuals."
+  },
+  {
+    "id": "landscape-floating-city-fantasy",
+    "category": "landscape-and-concept",
+    "title": "Floating City Fantasy",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/useshowcases/6.webp",
+    "prompt": "Fantasy city floating above the clouds at sunset, dramatic scale, warm sky palette, magical realism, concept-art polish",
+    "note": "Useful for fantasy concept art and atmospheric explorations."
+  },
+  {
+    "id": "landscape-surreal-color-experiment",
+    "category": "landscape-and-concept",
+    "title": "Surreal Color Experiment",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/useshowcases/4.webp",
+    "prompt": "Surreal artwork with vibrant layered colors, dreamlike composition, art-poster quality, bold visual contrast, premium creative direction",
+    "note": "Useful for creative posters and visual mood exploration."
+  },
+  {
+    "id": "editing-background-replacement",
+    "category": "editing-and-remix",
+    "title": "Background Replacement",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/case/2.webp",
+    "prompt": "Replace the current background with a clean minimal studio setup, preserve subject shape, keep realistic shadows, improve contrast, polished retouching",
+    "note": "Classic uploaded-image editing scenario."
+  },
+  {
+    "id": "editing-reference-led-fashion-remix",
+    "category": "editing-and-remix",
+    "title": "Reference-Led Fashion Remix",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/case/3.webp",
+    "prompt": "Use the uploaded reference for lighting and mood, but generate a new fashion portrait with the same atmosphere, realistic skin, premium editorial finish",
+    "note": "Good for reference-guided style transfer."
+  },
+  {
+    "id": "editing-product-relighting-pass",
+    "category": "editing-and-remix",
+    "title": "Product Relighting Pass",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/case/1.webp",
+    "prompt": "Relight this product image with softer directional light, cleaner highlights, stronger form separation, and a more premium commercial look",
+    "note": "Useful when the base packshot is usable but weakly lit."
+  },
+  {
+    "id": "marketing-square-launch-visual",
+    "category": "marketing-and-social",
+    "title": "Square Launch Visual",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/showcases/6.webp",
+    "prompt": "Square campaign visual for a new product launch, bold centered subject, clear text-safe areas, premium brand palette, paid-social ready",
+    "note": "Designed for launch posts and paid social."
+  },
+  {
+    "id": "marketing-vertical-story-ad",
+    "category": "marketing-and-social",
+    "title": "Vertical Story Ad",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/showcases/7.webp",
+    "prompt": "Vertical story ad visual, one hero product, soft luxury gradient background, modern brand styling, clean hierarchy, realistic reflections",
+    "note": "Fits story placements and short-lived promotion units."
+  },
+  {
+    "id": "marketing-promo-poster",
+    "category": "marketing-and-social",
+    "title": "Promo Poster with Typographic Space",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/showcases/8.webp",
+    "prompt": "Design a premium campaign poster with one central subject, dramatic negative space, elegant text area, modern commercial art direction",
+    "note": "Works for poster-style ads and homepage sections."
+  },
+  {
+    "id": "brand-packaging-moodboard",
+    "category": "brand-and-interface",
+    "title": "Packaging Moodboard",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/showcases/4.webp",
+    "prompt": "Premium packaging concept board with one hero box, material swatches, neutral palette, realistic paper texture, editorial layout",
+    "note": "Good for brand moodboards and concept directions."
+  },
+  {
+    "id": "brand-ai-tool-landing-hero",
+    "category": "brand-and-interface",
+    "title": "AI Tool Landing Hero",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/showcases/5.webp",
+    "prompt": "Landing page hero concept for an AI image tool, premium interface mockup, warm editorial lighting, clean modern SaaS presentation",
+    "note": "Fits site hero visuals and product explainers."
+  },
+  {
+    "id": "brand-prompt-workflow-illustration",
+    "category": "brand-and-interface",
+    "title": "Prompt Workflow Illustration",
+    "previewUrl": "https://www.gpt-image-2.dev/imgs/showcases/6.webp",
+    "prompt": "Illustrate a prompt-to-image workflow with input card, output previews, soft UI framing, minimal premium SaaS visual language",
+    "note": "Useful for product explanation graphics."
+  }
+]
