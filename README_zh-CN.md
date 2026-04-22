@@ -35,6 +35,7 @@
 - [编辑与重混案例](#编辑与重混案例)
 - [营销与社媒案例](#营销与社媒案例)
 - [品牌与界面案例](#品牌与界面案例)
+- [参考仓库案例](#参考仓库案例)
 - [提示词与案例数据文件](#提示词与案例数据文件)
 - [推广文案文件](#推广文案文件)
 - [以后给别的网站复用的方法](#以后给别的网站复用的方法)
@@ -65,8 +66,8 @@
 | 指标 | 数值 |
 | --- | --- |
 | Prompt 模板数 | 24 |
-| Showcase 风格案例数 | 18 |
-| 一级分类 | 6 |
+| Showcase 风格案例数 | 30 |
+| 一级分类 | 8 |
 | 语言 | 英文、简体中文 |
 | 仓库定位 | 内容型 awesome 资源仓 |
 
@@ -299,6 +300,117 @@ Landing page hero concept for an AI image tool, premium interface mockup, warm e
 
 ```text
 Illustrate a prompt-to-image workflow with input card, output previews, soft UI framing, minimal premium SaaS visual language
+```
+
+## 参考仓库案例
+
+这一节开始不再只用 `gpt-image-2.dev` 官网图，而是直接吸收你给的参考仓库案例，并把图复制到当前仓库里，让仓库形态更接近真正的 `awesome` 内容仓。
+
+来源仓库：
+
+- `ZeroLu/awesome-gpt-image`
+- `EvoLinkAI/awesome-gpt-image-2-prompts`
+
+### 文档与信息图案例
+
+#### 1. 手写笔记照片
+
+<img src="./assets/reference/black-pen-handwritten-notes.jpg" width="520" alt="手写笔记照片" />
+
+```text
+Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, with natural imperfections, crossed out words, underlined headings, natural daylight from a window, no flash, casual desk setting, shot on iPhone
+```
+
+#### 2. 景德镇青花瓷图解
+
+<img src="./assets/reference/jingdezhen-blue-white-porcelain-diagram.jpeg" width="520" alt="景德镇青花瓷图解" />
+
+```text
+Create a museum-style educational infographic about Jingdezhen blue-and-white porcelain, with process steps, historical context, decorative motifs, labeled illustrations, and elegant editorial layout
+```
+
+#### 3. 明制汉服拆解图
+
+<img src="./assets/reference/museum-level-chinese-disassembly-infographic.jpeg" width="520" alt="明制汉服拆解图" />
+
+```text
+Generate a museum-level Chinese disassembly infographic explaining the structure, materials, meanings, and dressing order of Ming dynasty Hanfu, with annotated garment parts and refined editorial composition
+```
+
+#### 4. 反向传播图解海报
+
+<img src="./assets/reference/backpropagation-diagram-poster.jpg" width="520" alt="反向传播图解海报" />
+
+```text
+Explain backpropagation in a clear educational poster with labeled neural network structure, forward pass, loss calculation, backward pass, gradients, and update steps
+```
+
+#### 5. 科普百科信息图
+
+<img src="./assets/reference/science-encyclopedia-infographic.jpg" width="520" alt="科普百科信息图" />
+
+```text
+Generate a high-quality vertical encyclopedia infographic card for [topic], with one central visual, zoomed feature details, modular information blocks, concise labels, comparison cards, and collectible editorial design
+```
+
+### 产品、UI 与商业页面案例
+
+#### 6. T-800 淘宝详情页
+
+<img src="./assets/reference/terminator-taobao-page.jpeg" width="520" alt="T-800 淘宝详情页" />
+
+```text
+Generate image: Taobao product detail page of a T-800 robot, showing front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios
+```
+
+#### 7. 宇宙风 UI 设计系统
+
+<img src="./assets/reference/custom-style-ui-system.jpeg" width="520" alt="宇宙风 UI 设计系统" />
+
+```text
+Generate a UI design system in a custom cosmic style, including web pages, mobile screens, cards, controls, buttons, tags, sliders, icons, and visual elements
+```
+
+#### 8. 3D X 主页立体 Mockup
+
+<img src="./assets/reference/3d-x-profile-mockup.jpg" width="520" alt="3D X 主页立体 Mockup" />
+
+```text
+Create a hyper-realistic 3D illustration of a slightly tilted Twitter/X profile page, keeping the original avatar, realistic UI, verification badge, follower stats, profile banner, and a person breaking out through torn paper for a strong 3D effect
+```
+
+#### 9. 城市三天旅游攻略图
+
+<img src="./assets/reference/city-travel-guide-infographic.jpg" width="520" alt="城市三天旅游攻略图" />
+
+```text
+Generate a 3-day travel guide infographic for [city] with daily itinerary, food recommendations, landmarks, travel notes, budget summary, and social-media-friendly layout
+```
+
+#### 10. Apple Park 发布会手机随拍
+
+<img src="./assets/reference/apple-park-tim-cook-keynote.jpg" width="520" alt="Apple Park 发布会手机随拍" />
+
+```text
+Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage, shot from the crowd at a distance
+```
+
+### 结构化排版案例
+
+#### 11. 书法临摹字帖
+
+<img src="./assets/reference/calligraphy-copybook-sheet.jpg" width="520" alt="书法临摹字帖" />
+
+```text
+Generate a calligraphy copybook practice sheet for [script style], with a title area, tracing examples, pale guide characters, structured grid boxes, and printable layout
+```
+
+#### 12. 人物关系图海报
+
+<img src="./assets/reference/key-character-relationship-map.jpeg" width="520" alt="人物关系图海报" />
+
+```text
+Generate a high-design character relationship poster for [franchise or cast], with grouped factions, central protagonist, directional links, portraits, and readable map-like composition
 ```
 
 ## 提示词与案例数据文件
