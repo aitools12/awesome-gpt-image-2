@@ -1,4 +1,4 @@
-# Awesome GPT Image 2 Dev
+# Awesome GPT Image 2 
 
 [![Website](https://img.shields.io/badge/Website-gpt--image--2.dev-111111)](https://www.gpt-image-2.dev/)
 [![Showcase](https://img.shields.io/badge/Showcase-Live-c45b2d)](https://www.gpt-image-2.dev/showcase)
