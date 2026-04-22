@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Awesome GPT Image 2 Dev">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f5ede1" />
+      <stop offset="50%" stop-color="#efe2cf" />
+      <stop offset="100%" stop-color="#f8f3ec" />
+    </linearGradient>
+    <linearGradient id="card" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1f1a17" />
+      <stop offset="100%" stop-color="#443126" />
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)" />
+  <circle cx="153" cy="136" r="96" fill="#dfc7a7" opacity="0.65" />
+  <circle cx="1150" cy="110" r="122" fill="#efb28c" opacity="0.38" />
+  <circle cx="1080" cy="530" r="150" fill="#d17a4c" opacity="0.18" />
+  <rect x="66" y="72" width="1148" height="496" rx="34" fill="white" opacity="0.68" />
+  <rect x="92" y="96" width="520" height="448" rx="28" fill="url(#card)" />
+  <rect x="664" y="96" width="524" height="136" rx="28" fill="#fff9f2" stroke="#d8c4a8" />
+  <rect x="664" y="252" width="252" height="134" rx="28" fill="#fff9f2" stroke="#d8c4a8" />
+  <rect x="936" y="252" width="252" height="134" rx="28" fill="#fff9f2" stroke="#d8c4a8" />
+  <rect x="664" y="406" width="524" height="138" rx="28" fill="#fff9f2" stroke="#d8c4a8" />
+  <text x="132" y="192" fill="#f6dfcf" font-family="Georgia, serif" font-size="28">Public GitHub Resource Layer</text>
+  <text x="132" y="274" fill="#ffffff" font-family="Georgia, serif" font-size="64" font-weight="700">Awesome</text>
+  <text x="132" y="348" fill="#ffffff" font-family="Georgia, serif" font-size="64" font-weight="700">GPT Image 2 Dev</text>
+  <text x="132" y="416" fill="#f0ddce" font-family="Georgia, serif" font-size="28">Prompts, showcase references, and website-ready examples</text>
+  <text x="706" y="156" fill="#8d3817" font-family="Arial, sans-serif" font-size="21" font-weight="700">Official Links</text>
+  <text x="706" y="193" fill="#31261f" font-family="Arial, sans-serif" font-size="24">Website, showcase, pricing, and public guide</text>
+  <text x="706" y="311" fill="#8d3817" font-family="Arial, sans-serif" font-size="21" font-weight="700">Prompt Set</text>
+  <text x="706" y="346" fill="#31261f" font-family="Arial, sans-serif" font-size="22">24 reusable templates</text>
+  <text x="976" y="311" fill="#8d3817" font-family="Arial, sans-serif" font-size="21" font-weight="700">Visual Angle</text>
+  <text x="976" y="346" fill="#31261f" font-family="Arial, sans-serif" font-size="22">Product, edit, remix</text>
+  <text x="706" y="466" fill="#8d3817" font-family="Arial, sans-serif" font-size="21" font-weight="700">Account</text>
+  <text x="706" y="503" fill="#31261f" font-family="Arial, sans-serif" font-size="24">Built for the aitools12 publishing workflow</text>
+</svg>

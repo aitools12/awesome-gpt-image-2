@@ -1,0 +1,170 @@
+[
+  {
+    "id": "product-hero-01",
+    "category": "product-marketing",
+    "title": "Luxury skincare hero shot",
+    "aspect_ratio": "4:5",
+    "prompt": "Premium skincare bottle on a warm travertine pedestal, soft daylight from the left, subtle shadow falloff, realistic glass reflections, clean luxury branding, editorial product photography, shallow depth of field, e-commerce hero shot, 4:5 crop"
+  },
+  {
+    "id": "product-hero-02",
+    "category": "product-marketing",
+    "title": "Minimal supplement launch image",
+    "aspect_ratio": "1:1",
+    "prompt": "A premium supplement jar centered on a matte stone block, pale neutral background, modern wellness brand palette, crisp edges, realistic studio lighting, ad-ready product image, clean square layout"
+  },
+  {
+    "id": "product-hero-03",
+    "category": "product-marketing",
+    "title": "Beauty product with splash accent",
+    "aspect_ratio": "4:5",
+    "prompt": "Luxury serum bottle with a controlled water splash arc behind it, glossy reflections, soft specular highlights, elegant beauty advertising shot, premium composition, realistic liquid physics, no extra text"
+  },
+  {
+    "id": "ecommerce-01",
+    "category": "marketplace-listing",
+    "title": "White background listing cleanup",
+    "aspect_ratio": "1:1",
+    "prompt": "Convert this product image into a clean marketplace-ready listing image, white background, accurate colors, centered composition, crisp edges, realistic contact shadow, no extra props, no watermark, export-ready"
+  },
+  {
+    "id": "ecommerce-02",
+    "category": "marketplace-listing",
+    "title": "Amazon style main image",
+    "aspect_ratio": "1:1",
+    "prompt": "Marketplace main product image, centered object, true-to-life color, soft contact shadow, bright white background, clean retail photography, zero clutter, optimized for e-commerce catalog display"
+  },
+  {
+    "id": "ecommerce-03",
+    "category": "marketplace-listing",
+    "title": "Comparison card scene",
+    "aspect_ratio": "16:9",
+    "prompt": "Create a clean side-by-side comparison visual for one product in two colorways, minimal background, clear separation, ad-friendly composition, realistic materials, polished marketplace presentation"
+  },
+  {
+    "id": "editing-01",
+    "category": "image-editing",
+    "title": "Background replacement",
+    "aspect_ratio": "match-source",
+    "prompt": "Replace the current background with a bright minimal studio setup, keep the product shape and label readable, preserve realistic shadows under the object, remove clutter, improve contrast, polished commercial retouch style"
+  },
+  {
+    "id": "editing-02",
+    "category": "image-editing",
+    "title": "Retouch and relight",
+    "aspect_ratio": "match-source",
+    "prompt": "Improve this image with softer directional lighting, cleaner shadows, balanced highlights, natural color correction, remove distractions, preserve realism, commercial-grade final polish"
+  },
+  {
+    "id": "editing-03",
+    "category": "image-editing",
+    "title": "Packshot cleanup",
+    "aspect_ratio": "match-source",
+    "prompt": "Clean this packshot for a polished storefront presentation, remove dust and background noise, keep packaging text legible, straighten perspective, sharpen edges naturally, realistic studio finish"
+  },
+  {
+    "id": "social-01",
+    "category": "social-media",
+    "title": "Summer launch campaign",
+    "aspect_ratio": "1:1",
+    "prompt": "Create a square social media campaign visual for a summer launch, bold central product, clean headline area at the top, supporting decorative elements in brand colors, premium but simple layout, realistic lighting, ad-ready composition"
+  },
+  {
+    "id": "social-02",
+    "category": "social-media",
+    "title": "Story ad concept",
+    "aspect_ratio": "9:16",
+    "prompt": "Vertical story ad visual for a beauty launch, bold hero product in the center, soft luxury gradient background, clear text-safe zones, premium editorial feel, realistic reflections, modern brand campaign styling"
+  },
+  {
+    "id": "social-03",
+    "category": "social-media",
+    "title": "Holiday promo tile",
+    "aspect_ratio": "1:1",
+    "prompt": "Create a festive promotional square with one featured product, subtle seasonal props, tasteful color accents, premium retail design, realistic materials, easy-to-read composition, made for paid social creative"
+  },
+  {
+    "id": "portrait-01",
+    "category": "portrait-avatar",
+    "title": "Editorial creator portrait",
+    "aspect_ratio": "3:4",
+    "prompt": "Editorial portrait of a modern creator in soft window light, realistic skin texture, subtle cinematic color grading, premium magazine look, shallow depth of field, natural confident pose, high-end portrait photography"
+  },
+  {
+    "id": "portrait-02",
+    "category": "portrait-avatar",
+    "title": "Professional avatar set",
+    "aspect_ratio": "1:1",
+    "prompt": "Create a clean professional profile photo with soft studio lighting, realistic skin detail, friendly but premium expression, minimal background, polished LinkedIn-style headshot, modern brand-safe aesthetic"
+  },
+  {
+    "id": "portrait-03",
+    "category": "portrait-avatar",
+    "title": "Series consistency avatar",
+    "aspect_ratio": "1:1",
+    "prompt": "Generate a consistent avatar variation set of the same person across three color moods, preserve face identity, maintain hairstyle and camera angle, realistic rendering, subtle branding palette shifts"
+  },
+  {
+    "id": "remix-01",
+    "category": "reference-remix",
+    "title": "Fashion reference remix",
+    "aspect_ratio": "3:4",
+    "prompt": "Using the uploaded reference as the lighting and styling guide, create a new editorial portrait with the same atmosphere, keep the image realistic, preserve a soft cinematic color palette, luxury magazine look, 3:4 vertical"
+  },
+  {
+    "id": "remix-02",
+    "category": "reference-remix",
+    "title": "Brand style transfer",
+    "aspect_ratio": "4:5",
+    "prompt": "Use the uploaded reference images to match the same brand mood, camera distance, and material quality, but generate a new product composition for a fresh campaign image, realistic and polished"
+  },
+  {
+    "id": "remix-03",
+    "category": "reference-remix",
+    "title": "Moodboard extension",
+    "aspect_ratio": "16:9",
+    "prompt": "Extend the uploaded moodboard into a cohesive hero visual, keep the same color story and texture cues, add one central hero object, premium art-direction quality, realistic lighting, clean composition"
+  },
+  {
+    "id": "branding-01",
+    "category": "branding-typography",
+    "title": "Packaging concept board",
+    "aspect_ratio": "4:5",
+    "prompt": "Create a premium packaging concept board with one hero box design, supporting material swatches, minimal typography zones, modern beauty branding, realistic paper texture, refined editorial layout"
+  },
+  {
+    "id": "branding-02",
+    "category": "branding-typography",
+    "title": "Poster concept",
+    "aspect_ratio": "4:5",
+    "prompt": "Design a premium brand poster with one central object, dramatic negative space, elegant modern typography area, warm editorial lighting, realistic materials, sophisticated campaign aesthetic"
+  },
+  {
+    "id": "branding-03",
+    "category": "branding-typography",
+    "title": "Typography-first launch image",
+    "aspect_ratio": "16:9",
+    "prompt": "Create a sleek launch announcement visual with strong text-safe layout, one hero product, restrained brand palette, realistic reflections, premium campaign style, ideal for homepage hero banner"
+  },
+  {
+    "id": "ui-01",
+    "category": "ui-and-moodboard",
+    "title": "AI tool website concept",
+    "aspect_ratio": "16:9",
+    "prompt": "Modern AI image tool landing page concept shown on a laptop screen, warm editorial lighting, premium product design, clean card layout, polished interface mockup, realistic presentation"
+  },
+  {
+    "id": "ui-02",
+    "category": "ui-and-moodboard",
+    "title": "Creative dashboard moodboard",
+    "aspect_ratio": "16:9",
+    "prompt": "Design a creative dashboard moodboard for image generation workflows, modular cards, image previews, soft neutral palette, high-end SaaS styling, realistic screen presentation"
+  },
+  {
+    "id": "ui-03",
+    "category": "ui-and-moodboard",
+    "title": "Prompt workflow illustration",
+    "aspect_ratio": "16:9",
+    "prompt": "Illustrate a clean prompt-to-image workflow scene with input prompt card, output image cards, light UI chrome, minimal but premium SaaS visual language, elegant product presentation"
+  }
+]
