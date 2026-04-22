@@ -1,4 +1,4 @@
-# Awesome GPT Image 2
+# Awesome GPT Image 2 提示词与案例库
 
 [![官网](https://img.shields.io/badge/Website-gpt--image--2.dev-111111)](https://www.gpt-image-2.dev/)
 [![English README](https://img.shields.io/badge/README-English-lightgrey)](README.md)
@@ -8,7 +8,9 @@
   <img src="./assets/banner.svg" alt="Awesome GPT Image 2 banner" width="100%" />
 </p>
 
-> 一个带明确来源标注的 GPT Image 2 案例库。
+> 一个带明确来源标注的 GPT Image 2 提示词、案例图、海报、UI mockup、社媒截图和信息图库。
+
+如果你要找的是 GitHub 上比较完整的 GPT Image 2 prompts / examples 仓库，这个项目现在按“可追溯来源 + 按场景分类”的方式来整理。它把公开仓库里的 GPT Image 2 案例按信息图、海报、UI、产品广告、角色设定等方向拆开，并保留来源链路，避免变成一堆无法核对出处的图片堆。
 
 这个仓库现在只保留可追溯来源的案例。之前那些主要来自站点自身、但没有明确来源链路的旧图段落已经删掉了。当前图片都来自你指定的参考仓库，或者在仓库内补了明确的上游链接。
 
@@ -18,6 +20,10 @@
 - Gallery：https://www.gpt-image-2.dev/showcase
 - Pricing：https://www.gpt-image-2.dev/pricing
 - GitHub 仓库：https://github.com/aitools12/awesome-gpt-image-2
+- UI 提示词页：[docs/gpt-image-2-ui-prompts.md](docs/gpt-image-2-ui-prompts.md)
+- 信息图提示词页：[docs/gpt-image-2-infographic-prompts.md](docs/gpt-image-2-infographic-prompts.md)
+- 海报提示词页：[docs/gpt-image-2-poster-prompts.md](docs/gpt-image-2-poster-prompts.md)
+- 产品广告提示词页：[docs/gpt-image-2-product-ad-prompts.md](docs/gpt-image-2-product-ad-prompts.md)
 
 ## 仓库快照
 
@@ -32,7 +38,47 @@
 
 - [`data/gpt-image-2-dev-prompts.json`](data/gpt-image-2-dev-prompts.json)
 - [`data/gpt-image-2-dev-cases.json`](data/gpt-image-2-dev-cases.json)
+- [`docs/gpt-image-2-ui-prompts.md`](docs/gpt-image-2-ui-prompts.md)
+- [`docs/gpt-image-2-infographic-prompts.md`](docs/gpt-image-2-infographic-prompts.md)
+- [`docs/gpt-image-2-poster-prompts.md`](docs/gpt-image-2-poster-prompts.md)
+- [`docs/gpt-image-2-product-ad-prompts.md`](docs/gpt-image-2-product-ad-prompts.md)
+- [`CONTRIBUTING.md`](CONTRIBUTING.md)
 - [`PROMOTION.md`](PROMOTION.md)
+
+## 按场景浏览 GPT Image 2 提示词
+
+### UI Mockup 与界面图
+
+- [GPT Image 2 UI prompts 和设计系统案例](docs/gpt-image-2-ui-prompts.md)
+- 适合网页界面、移动端页面、社媒截图和视觉系统类生成
+
+### 信息图与教育类排版
+
+- [GPT Image 2 infographic prompts 和百科图案例](docs/gpt-image-2-infographic-prompts.md)
+- 适合旅游攻略、博物馆式图解、流程图、百科卡片和说明型视觉
+
+### 海报与编辑视觉
+
+- [GPT Image 2 poster prompts 和宣传海报案例](docs/gpt-image-2-poster-prompts.md)
+- 适合电影感海报、活动宣传、密集信息设计和封面型版式
+
+### 产品广告与电商视觉
+
+- [GPT Image 2 product ad prompts 和商品详情页案例](docs/gpt-image-2-product-ad-prompts.md)
+- 适合电商详情页、食品广告、门店海报和品牌营销图
+
+## 这个仓库和普通图片集合的区别
+
+- 每个案例都保留了来源路径。
+- 内容按使用场景拆页，不是单一长列表。
+- 仓库内保留本地参考图，减少上游帖子失效带来的预览损坏。
+- 中英文双语并行，更容易覆盖不同语言的搜索词。
+
+## 参考仓库
+
+- [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+- [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+- [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
 
 ## 案例库
 

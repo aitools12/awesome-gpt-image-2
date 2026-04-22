@@ -1,4 +1,4 @@
-# Awesome GPT Image 2
+# Awesome GPT Image 2 Prompts and Examples
 
 [![Website](https://img.shields.io/badge/Website-gpt--image--2.dev-111111)](https://www.gpt-image-2.dev/)
 [![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md)
@@ -8,9 +8,11 @@
   <img src="./assets/banner.svg" alt="Awesome GPT Image 2 banner" width="100%" />
 </p>
 
-> A source-attributed case library for GPT Image 2 style prompts, examples, and structured layouts.
+> A source-attributed library of GPT Image 2 prompts, examples, posters, UI mockups, social screenshots, product ads, and infographics.
 
-This repository now keeps only cases with traceable origins. The earlier unsourced site-only examples were removed. Current images are either copied from the reference repositories you pointed to or documented with explicit upstream links.
+If you are looking for GPT Image 2 prompts on GitHub, this repository is designed to be a clean, source-attributed reference set. It collects GPT Image 2 examples from public repositories, keeps the image source path visible, and groups prompts by practical use case such as infographic design, poster design, UI mockups, product ads, and character sheets.
+
+This repository now keeps only cases with traceable origins. The earlier unsourced site-only examples were removed. Current images are copied from the reference repositories you pointed to or documented with explicit upstream links.
 
 ## Quick Links
 
@@ -18,6 +20,10 @@ This repository now keeps only cases with traceable origins. The earlier unsourc
 - Gallery: https://www.gpt-image-2.dev/showcase
 - Pricing: https://www.gpt-image-2.dev/pricing
 - GitHub repo: https://github.com/aitools12/awesome-gpt-image-2
+- UI prompts: [docs/gpt-image-2-ui-prompts.md](docs/gpt-image-2-ui-prompts.md)
+- Infographic prompts: [docs/gpt-image-2-infographic-prompts.md](docs/gpt-image-2-infographic-prompts.md)
+- Poster prompts: [docs/gpt-image-2-poster-prompts.md](docs/gpt-image-2-poster-prompts.md)
+- Product ad prompts: [docs/gpt-image-2-product-ad-prompts.md](docs/gpt-image-2-product-ad-prompts.md)
 
 ## Repository Snapshot
 
@@ -32,7 +38,47 @@ Main files:
 
 - [`data/gpt-image-2-dev-prompts.json`](data/gpt-image-2-dev-prompts.json)
 - [`data/gpt-image-2-dev-cases.json`](data/gpt-image-2-dev-cases.json)
+- [`docs/gpt-image-2-ui-prompts.md`](docs/gpt-image-2-ui-prompts.md)
+- [`docs/gpt-image-2-infographic-prompts.md`](docs/gpt-image-2-infographic-prompts.md)
+- [`docs/gpt-image-2-poster-prompts.md`](docs/gpt-image-2-poster-prompts.md)
+- [`docs/gpt-image-2-product-ad-prompts.md`](docs/gpt-image-2-product-ad-prompts.md)
+- [`CONTRIBUTING.md`](CONTRIBUTING.md)
 - [`PROMOTION.md`](PROMOTION.md)
+
+## Best GPT Image 2 Prompts by Use Case
+
+### UI Mockups and Screens
+
+- [GPT Image 2 UI prompts and design system examples](docs/gpt-image-2-ui-prompts.md)
+- Covers web UI, mobile screens, social app screenshots, and interface-style compositions
+
+### Infographics and Educational Layouts
+
+- [GPT Image 2 infographic prompts and encyclopedia cards](docs/gpt-image-2-infographic-prompts.md)
+- Covers travel guides, educational diagrams, museum-style layouts, and structured visual explainers
+
+### Posters and Editorial Visuals
+
+- [GPT Image 2 poster prompts for promotional and editorial work](docs/gpt-image-2-poster-prompts.md)
+- Covers cinematic posters, launch visuals, dense editorial posters, and campaign directions
+
+### Product Ads and Commerce Visuals
+
+- [GPT Image 2 product ad prompts and e-commerce page ideas](docs/gpt-image-2-product-ad-prompts.md)
+- Covers product detail pages, food ads, retail sale flyers, and brand promotion layouts
+
+## Why This Repository Is Different
+
+- Every case shown here includes a visible source path.
+- Cases are grouped by use case instead of being dumped into one long image wall.
+- The repo keeps local reference images so previews remain stable even if upstream posts move.
+- The project is bilingual, which helps cover both English and Chinese GPT Image 2 search intent.
+
+## Reference Repositories
+
+- [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+- [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+- [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image)
 
 ## Case Library
 
